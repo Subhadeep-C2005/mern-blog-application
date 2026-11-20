@@ -1,5 +1,4 @@
 import PropTypes from "prop-types";
-import { CreatePost } from "./CreatePost.jsx";
 export function PostFilter({ field, value, onChange }) {
     return (
         <div>
